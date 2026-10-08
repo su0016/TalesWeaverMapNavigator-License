@@ -3,7 +3,7 @@
   "machines": [
     {
       "id": "f1500c2f962c26ec4b5f11289053353a45c21bb5960bb1c36308b57cffc4cc61",
-      "enabled": false
+      "enabled": true
     }
   ]
 }
